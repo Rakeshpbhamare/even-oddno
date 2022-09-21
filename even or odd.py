@@ -1,5 +1,6 @@
 
 '''
+#using while loop
 while True:
     n=int(input('enter no'))
     if n%2==0:
